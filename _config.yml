@@ -29,9 +29,25 @@ description: >- # used by seo meta and the atom feed
 url: "https://alpagotchi.github.io"
 
 github:
-  username: alpagotchi # change to your github username
+  username: Alpagotchi # change to your github username
 
-google_site_verification: # fill in to your verification string
+# twitter:
+  # username: twitter_username # change to your twitter username
+
+social:
+  # Change to your full name.
+  # It will be displayed as the default author of the posts and the copyright owner in the Footer
+  name: Tim
+  email: example@domain.com # change to your email address
+  links:
+    # The first element serves as the copyright owner's link
+     # - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/SirTimme # change to your github homepage
+    # Uncomment below to add more social links
+    # - https://www.facebook.com/username
+    # - https://www.linkedin.com/in/username
+
+# google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -57,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/130458159?s=200&v=4
 
 # boolean type, the global switch for TOC in posts.
 toc: true
