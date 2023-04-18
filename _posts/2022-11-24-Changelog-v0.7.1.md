@@ -5,4 +5,4 @@ categories: [Changelog]
 tags: [development, discord]
 ---
 
-- The ItemTables in `/shop` and `/inventory` are now fully **localized**!
+- The item tables in `/shop` and `/inventory` are now fully **localized**!
