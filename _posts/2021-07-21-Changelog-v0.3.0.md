@@ -5,6 +5,6 @@ categories: [Changelog]
 tags: [development, discord]
 ---
 
-- Added `lady` outfit! Now available under the `/outfit` command
+- Added **lady** outfit! Now available under the `/outfit` command
 
 - Improved DB-Methods regarding reading and writing operations

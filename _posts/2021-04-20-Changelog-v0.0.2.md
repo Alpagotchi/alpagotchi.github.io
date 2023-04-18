@@ -7,7 +7,7 @@ tags: [development, discord]
 
 - DB-Methods refactored and optimized
 
-- Outfits and Shop Items are stored in a JSON-File now to extend them more easily
+- Outfit and shop items are now stored in a JSON-File to extend them more easily
 
 - Shop via `a!shop` slightly changed
 

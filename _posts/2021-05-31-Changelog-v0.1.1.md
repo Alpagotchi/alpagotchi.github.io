@@ -7,4 +7,4 @@ tags: [development, discord]
 
 - New alpaca design! See it with `a!ma`
 
-- Temporary removal of all outfits, but new outfits are coming in the future
+- Temporary **removal** of all outfits, but new outfits are coming in the future

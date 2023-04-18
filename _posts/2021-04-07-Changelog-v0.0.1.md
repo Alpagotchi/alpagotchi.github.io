@@ -5,7 +5,7 @@ categories: [Changelog]
 tags: [development, discord]
 ---
 
-- The `a!pet` command has spots now (e.g. `a!pet head`) when its the favourite spot of your alpaca, you gain extra joy
+- The `a!pet` command has spots now (e.g. `a!pet head`) when its the favourite spot of your alpaca you gain **extra** joy
 
 - `a!help (command)` is a nice embed with all information to a specific command now
 

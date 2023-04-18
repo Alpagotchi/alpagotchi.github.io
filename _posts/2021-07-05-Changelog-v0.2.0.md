@@ -11,7 +11,7 @@ tags: [development, discord]
 
 - They will show up during the next hour as they slowly propagate over all guilds Alpagotchi is in
 
-- New outfit as well! Dress your alpaca now as a true `gentleman`
+- New **outfit** as well! Dress your alpaca now as a true **gentleman**
 
 - Various optimizations like response time and general code style 
 

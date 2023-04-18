@@ -7,8 +7,8 @@ tags: [development, discord]
 
 - Added **localizations**!
 
-- New `/language` command added! This allows the owner of the guild to set the language of the bot (rn **english** and **german* are supported)
+- New `/language` command added! This allows the owner of the guild to set the language of the bot (rn **english** and **german** are supported)
 
 - The slashcommands are updated and propagate over the guild during the next hour, so errors could be possible in this timeframe
 
-- Alpagotchis responses are refactored into propertyfiles, which allows to quickly add new languages 
+- Alpagotchis responses are refactored into property files, which allows to quickly add new languages 
